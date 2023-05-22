@@ -1,25 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Oswald:wght@500&display=swap');
-#titulo{
-    font-size: 150px;
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#Titulo{
+    font-size: 100px;
     text-align: center;
     font-family: 'Oswald', sans-serif;
+    background-color: aqua;
 }
 
 
 body{
     text-align: center;
+
 }
 table{
     color: #000000;
     margin:0 auto;
     background-color: rgba(0, 0, 0, 0.411);
     padding: 15px;
+
 }
 main{
     background-color: rgb(77, 76, 76);
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 th{
     background-color: rgb(3, 226, 255);
 
 }
 
+footer{
+padding: 35px;
+    background-color: aqua;
+}
